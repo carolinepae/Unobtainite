@@ -1,0 +1,1 @@
+electron main.js --force-performance-mode-gpu --limit-fps=300 --disable-gpu-vsync
